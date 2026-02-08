@@ -95,7 +95,7 @@ sudo apt install qtbase5-dev libqt5charts5-dev build-essential cmake
 1. **Clone the repository:**
 
 ```bash
-git clone <https://github.com/mosioc/sys-pulse>
+git clone https://github.com/mosioc/sys-pulse
 cd SysPulse
 ```
 
