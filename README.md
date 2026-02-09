@@ -4,7 +4,7 @@ System resource monitor using Qt
 
 <div align="center">
 
-![SysPulse Logo](https://img.shields.io/badge/SysPulse-v2.0-blue.svg)
+![SysPulse Logo](https://img.shields.io/badge/SysPulse-v1.0-blue.svg)
 ![Qt](https://img.shields.io/badge/Qt-5.15-green.svg)
 ![Platform](https://img.shields.io/badge/platform-Linux-orange.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
